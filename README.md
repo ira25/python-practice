@@ -1,2 +1,3 @@
-# cool-python-project
-Just trying to build something cool here 
+# python-practice
+
+I will post my python practice and coding problems here.
